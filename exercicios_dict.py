@@ -1,5 +1,4 @@
 # Sistema de perguntas e respostas
-import os
 
 perguntas = [
     {
